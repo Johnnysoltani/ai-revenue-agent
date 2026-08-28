@@ -2,6 +2,6 @@
 ai-revenue-agent/
 ├── main.py
 ├── auditor.py
-├── requirements.txt
+├── requirements
 ├── .env.example
 └── README.md
